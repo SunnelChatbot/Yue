@@ -29,7 +29,7 @@ module.exports = {
         {
           headers: {
             "Content-Type": "application/json",
-            Authorization: "Bearer YOUR_API_KEY",
+            Authorization: "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",
           },
         },
       );
